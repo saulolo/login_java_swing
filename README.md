@@ -3,7 +3,7 @@
 _Autor: Saul Echeverri_   
 _Edición: 2024_
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/JAVA_Logo.svg" width="200px" alt="Portada del Proyecto">
+<img src="img/login.png" width="300px" alt="Portada del Proyecto">
 
 ## Tabla de Contenidos 📚
 
