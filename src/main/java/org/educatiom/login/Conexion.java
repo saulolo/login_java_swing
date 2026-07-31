@@ -7,7 +7,6 @@ import java.sql.SQLException;
 public class Conexion {
 
 
-
     //variable para guardar el estado de la conección.
     private static Connection connection;
 
@@ -73,9 +72,5 @@ public class Conexion {
         }
         return instancia;
     }
-
-
-    //Quede en el 12:51
-
 
 }
